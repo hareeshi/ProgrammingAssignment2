@@ -1,5 +1,5 @@
 ## The below pair of functions cache the inverse of a matrix
- 
+## usage > cacheSolve(makeCacheMatrix(your matrix name))
 
 ## This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
